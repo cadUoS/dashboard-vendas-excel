@@ -1,8 +1,10 @@
-# 📊 Dashboard de Vendas no Excel
+# 🎮 Dashboard de Vendas Xbox
 
 <div align="center">
 
-### 📈 Análise e visualização de dados de vendas utilizando Microsoft Excel
+# 📊 Dashboard de Vendas Xbox
+
+### Análise e visualização de dados utilizando Microsoft Excel
 
 </div>
 
@@ -10,37 +12,34 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste na criação de um **Dashboard de Vendas no Microsoft Excel**, desenvolvido com o objetivo de transformar dados brutos em informações visuais claras e relevantes.
+Este projeto consiste na criação de um **Dashboard de Vendas Xbox utilizando Microsoft Excel**, desenvolvido com o objetivo de transformar dados brutos em informações visuais claras e úteis.
 
-Através da organização, tratamento e visualização dos dados, o dashboard permite analisar o desempenho das vendas e obter uma visão mais clara dos principais indicadores presentes na base de dados.
+Através da organização, análise e visualização dos dados, o dashboard permite obter uma visão mais clara sobre o desempenho das vendas e facilita a interpretação das informações.
 
-O projeto foi desenvolvido como parte de um desafio da **Digital Innovation One (DIO)**, colocando em prática conceitos de Excel, análise de dados e construção de dashboards.
+O projeto foi desenvolvido como parte de um desafio da **Digital Innovation One (DIO)**, colocando em prática conhecimentos relacionados à organização de dados, análise de informações e construção de dashboards no Excel.
 
 ---
 
-# 🎯 Objetivo
+## 🎯 Objetivo
 
 O principal objetivo do projeto é transformar uma base de dados de vendas em uma ferramenta visual que facilite a análise das informações.
 
-O dashboard busca:
+Com o dashboard, é possível:
 
-- 📊 Organizar os dados de vendas;
-- 📈 Transformar dados em informações visuais;
-- 🔎 Facilitar a análise dos resultados;
-- 📌 Destacar os principais indicadores;
-- 📉 Identificar tendências e comportamentos nas vendas;
-- 💡 Auxiliar na interpretação dos dados;
-- 🎨 Criar uma interface visual e intuitiva.
+- 📊 Visualizar os principais dados de vendas;
+- 📈 Analisar o desempenho das vendas;
+- 🔎 Facilitar a interpretação das informações;
+- 📌 Organizar dados de forma visual;
+- 💡 Transformar dados brutos em informações úteis;
+- 📉 Auxiliar na análise e tomada de decisões baseada em dados.
 
 ---
 
-# 🗂️ Base de Dados
+# 🗂️ Dados Utilizados
 
-Para o desenvolvimento do projeto foi utilizada uma base de dados disponibilizada no desafio da DIO.
+Para a construção do dashboard foi utilizada uma base de dados disponibilizada no desafio da DIO.
 
-A base contém informações relacionadas às vendas, utilizadas como fonte para a criação dos indicadores e gráficos presentes no dashboard.
-
-O arquivo utilizado como base foi:
+O arquivo utilizado como fonte dos dados é:
 
 ```text
-base.xlsx
+Base.xlsx
